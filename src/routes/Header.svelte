@@ -7,7 +7,7 @@
 <header>
 <nav>
 	<ul>
-		<li>Home</li>
+		<li>True Event</li>
 	</ul>
 </nav>
 </header>
