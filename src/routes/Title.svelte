@@ -1,3 +1,3 @@
 <h1>
-    Worst Laptop Service Experience - Pallies IT Service, Coimbatore
+    Worst Laptop Service Experience - Palies IT Service, Coimbatore
 </h1>
