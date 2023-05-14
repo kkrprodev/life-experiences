@@ -1,6 +1,5 @@
 <script>
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
+import Title from './Title.svelte';
 </script>
 
 <svelte:head>
@@ -10,6 +9,7 @@
 
 <section>
 
+<Title />
 
 </section>
 
