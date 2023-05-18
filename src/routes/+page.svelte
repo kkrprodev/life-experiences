@@ -4,7 +4,7 @@ import Story from './Story.svelte';
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Palies - Worst Laptop Service Experience</title>
 	<meta name="description" content="Laptop Service Experience" />
 </svelte:head>
 
@@ -21,6 +21,7 @@ import Story from './Story.svelte';
 		flex-direction: column;
 		justify-content: left;
 		align-items: left;
+		width: 100%;
 	}
 
 </style>

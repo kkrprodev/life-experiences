@@ -1,5 +1,9 @@
 <script>
 	import pre_display from '$lib/images/Display-by-palies.jpg';
+	import pre_display_close_up from '$lib/images/Display-close-up.jpg';
+	import post_display_1 from '$lib/images/Post-display-1.jpg';
+	import post_display_2 from '$lib/images/Post-display-2.jpg';
+	import post_display_3 from '$lib/images/Post-display-3.jpg';
 </script>
 
 <div>
@@ -25,14 +29,7 @@ Vacuum Cleaning – 600 + Tax
 Heat Sink Paste Replacement – 350 + Tax
 McAfee AntiVirus – 500 + Tax (1 Year Subscription)
 Cleaning Kid – 200
-</p>
-</div>
 
-<div>
-<img src={pre_display} />
-</div>
-
-<p>
 The service engineer called me and told that the display must be changed.
 I believed it should be display cable connectivity issue and so decided to fix it later. Since I was in native at that time, I asked my brother-in-law to collect it from Palies. 
 He collected at 4PM and went back home. He opened the laptop and was shocked by seeing the condition of the display.
@@ -43,6 +40,28 @@ We got a call and had a tough argument. They never acknowledged that it was happ
 They simply said the display came to this condition by itself. They take zero responsibility.
 Without any business ethics, they told that you have to change your display at your own cost since it wasn't their fault.
 
-They also told that we had delivered your laptop at 4PM and you informed us at 6PM so within this 2 hours gap, you should've damaged my laptop.
+They also told that we had delivered your laptop at 4PM and you informed us at 6PM so within this 2 hours gap, I should've damaged my laptop.
 
 </p>
+</div>
+
+<!-- <div>
+<img src={pre_display} width=800px />
+<img src={pre_display_close_up} width=800px />
+<img src={post_display_1} width=800px />
+<img src={post_display_2} width=800px />
+<img src={post_display_3} width=800px />
+</div> -->
+
+
+<style>
+
+.flex-container {
+	width: 100%;
+	background-color: lightgrey;
+	display: flex;
+	flex-direction: row;
+}
+
+
+</style>
