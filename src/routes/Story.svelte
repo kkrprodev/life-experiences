@@ -1,3 +1,8 @@
+<script>
+	import pre_display from '$lib/images/Display-by-palies.jpg';
+</script>
+
+<div>
 <p>
 
 I am Krishnakumar, working as software developer in a private company. Here, I am sharing my laptop service experience with Palies IT Service in Coimbatore. 
@@ -22,3 +27,9 @@ McAfee AntiVirus – 500 + Tax (1 Year Subscription)
 Cleaning Kid – 200
 
 </p>
+</div>
+
+<div>
+<img src={pre_display} />
+</div>
+
