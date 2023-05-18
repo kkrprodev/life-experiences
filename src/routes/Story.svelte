@@ -25,7 +25,6 @@ Vacuum Cleaning – 600 + Tax
 Heat Sink Paste Replacement – 350 + Tax
 McAfee AntiVirus – 500 + Tax (1 Year Subscription)
 Cleaning Kid – 200
-
 </p>
 </div>
 
@@ -33,3 +32,17 @@ Cleaning Kid – 200
 <img src={pre_display} />
 </div>
 
+<p>
+The service engineer called me and told that the display must be changed.
+I believed it should be display cable connectivity issue and so decided to fix it later. Since I was in native at that time, I asked my brother-in-law to collect it from Palies. 
+He collected at 4PM and went back home. He opened the laptop and was shocked by seeing the condition of the display.
+Some portion of the screen were totally black, exist a small crack in the display and display was not properly fitted back after they completed testing. 
+He informed me and we informed them immediately (around 6PM).
+Their receptionist informed us that the service engineer left office and assured call back the next day.
+We got a call and had a tough argument. They never acknowledged that it was happened due to improper handling of the display by service engineer. 
+They simply said the display came to this condition by itself. They take zero responsibility.
+Without any business ethics, they told that you have to change your display at your own cost since it wasn't their fault.
+
+They also told that we had delivered your laptop at 4PM and you informed us at 6PM so within this 2 hours gap, you should've damaged my laptop.
+
+</p>
