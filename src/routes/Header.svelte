@@ -1,7 +1,6 @@
 <script>
-	import { page } from '$app/stores';
-	import logo from '$lib/images/svelte-logo.svg';
-	import github from '$lib/images/github.svg';
+	import { page, navigating } from '$app/stores';
+	import { Jumper } from 'svelte-loading-spinners';
 </script>
 
 <header>
@@ -9,6 +8,9 @@
 	<ul>
 		<li>True Event</li>
 	</ul>
+	{#if $navigating}
+		<Jumper size="60" color="#FF3E00" unit="px" duration="1s" />
+	{/if}
 </nav>
 </header>
 

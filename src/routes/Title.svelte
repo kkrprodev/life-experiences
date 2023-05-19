@@ -2,11 +2,10 @@
 <h1>
     Worst Laptop Service Experience - Palies IT Service, Coimbatore
 </h1>
-<h3> 14 May 2023, 11:00 AM </h3>
+<p>Authored On: 14 May 2023, 11:00 AM </p>
 </div>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
 
 h1 {
     font-family: 'Tilt Warp', 'Open Sans';
@@ -15,6 +14,10 @@ h1 {
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
+}
+
+p {
+    text-align: center;
 }
 
 </style>
