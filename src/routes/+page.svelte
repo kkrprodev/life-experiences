@@ -1,6 +1,7 @@
 <script>
-	
 	import Story from './Story.svelte';
+	import Loader from './Loader.svelte';
+	import { Jumper } from 'svelte-loading-spinners';
 </script>
 
 <svelte:head>
@@ -10,8 +11,11 @@
 
 <section>
 
-
-<Story />
+<Loader this={() => import('./Story.svelte')}>
+	<div slot="fallback">
+		<Jumper size="60" color="#FF3E00" unit="px" duration="1s" />
+	</div>
+</Loader>
 
 </section>
 
