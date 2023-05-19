@@ -1,8 +1,13 @@
+<script>
+    import { Jumper } from 'svelte-loading-spinners';
+</script>
+
 <div>
 <h1>
     Worst Laptop Service Experience - Palies IT Service, Coimbatore
 </h1>
 <p>Authored On: 14 May 2023, 11:00 AM </p>
+<Jumper size="60" color="#FF3E00" unit="px" duration="1s" />
 </div>
 
 <style>

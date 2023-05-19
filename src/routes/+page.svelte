@@ -1,6 +1,6 @@
 <script>
-import Title from './Title.svelte';
-import Story from './Story.svelte';
+	
+	import Story from './Story.svelte';
 </script>
 
 <svelte:head>
@@ -10,7 +10,7 @@ import Story from './Story.svelte';
 
 <section>
 
-<Title />
+
 <Story />
 
 </section>
