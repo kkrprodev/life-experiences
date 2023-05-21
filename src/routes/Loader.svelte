@@ -17,6 +17,7 @@
     <svelte:component this={Component} {...$$restProps}>
         <slot></slot>
     </svelte:component>
+    
 <div id="loader-container">
     {#if !Component}
         <slot name="fallback"></slot>
