@@ -56,29 +56,47 @@ After investigation and testing, they had posted their estimation/cost of replac
 </ul>
 
 <p>
-Then, the service engineer called me and told that the display must be changed.
+Then, the service engineer called me and told that the display must be changed. He asked my approval to replace the display on 11-Apr-2023 06:30 PM 
+but I denied because my intuition and the comments I got from previous service center made me believe that it could be display cable issue and could be fixed with little cost. 
 </p>
 
-
+<h3> What happened on 12-Apr-2023?</h3>
 
 <p>
-
-
-
-Since my intuition was display cable issue, I thought that I should try service my laptop in another service center. 
-Since I was in native at that time, I asked my brother-in-law to collect it from Palies. 
-He collected at 4PM and went back home. He opened the laptop and was shocked by seeing the condition of the display.
+I asked my brother-in-law to collect it from Palies since I was in native at that time.
+He collected the laptop back at 12-Apr-2023 04:00 PM and went back home. 
+After reaching home, he opened the laptop and was shocked by seeing the condition of the display.
 Some portion of the screen were totally black, exist a small crack in the display and display was not properly fitted back after they completed testing. 
-He informed me and we informed them immediately (around 6PM).
-Their receptionist informed us that the service engineer left office and assured call back the next day.
-We got a call and had a tough argument. They never acknowledged that it was happened due to improper handling of the display by service engineer. 
-They simply said the display came to this condition by itself. They take zero responsibility.
-Without any business ethics, they told that you have to change your display at your own cost since it wasn't their fault.
-
-They also told that we had delivered your laptop at 4PM and you informed us at 6PM so within this 2 hours gap, I should've damaged my laptop.
+He informed me and I informed them immediately at 06:00 PM. 
+The receptionist attended the phone and assured me that the service engineer left office and she would connect me with the service executive the next day.
 
 </p>
+
+<h3> The Great Response </h3>
+
+Service engineer called me on 13-Apr-2023 and the argument started. 
+He told that when he removed the display and put it in the test laptop, the display came to this condition by itself.
+He never acknowledged that it was happened due to his improper handling of the display.
+Without any business ethics, they told that you have to change your display at your own cost since it wasn't their fault.
+
+I got extremely angered that when he irrelevantly told that Palies IT Service had delivered your laptop at 12-Apr-2023 4PM and 
+you informed us the issue at 6PM. So, within this 2 hours gap, I should've damaged my own laptop.
+<br/><br/>
+Finally after 2 weeks of arguments, the service engineer gave the manager contact number. When I spoke with him, he is even more irresponsible and blamed me that 
+I should have tested my laptop at 04:00 PM and hence it's not Palies IT Serice's fault. When I asked to meet with him directly, 
+he told that he will call me when he reaches office but no response for 15 days. When I spoke with receptionist on 15-May-2023, she told that Manager is in hospital and
+will call back when he returns. Till today 21-May-2023, no response. They 're group of liars, don't know what's customer satisfaction but running a business.
+
+My argunment was simple, I asked to return my laptop in the same condition when it was submitted to them. It remained in same state for more than a month before I handed over to Palies.
+The service engineer is already aware that this has happened while testing but when we collected the laptop, he purposefully remained silent and never spoke a word about this problem.
+They are not ready to compensate with single rupee. They are running business without ethics and scrapping customer's hard earned money. 
+These inexperienced, irresponsible costed me of Rs. 15,000 for the new display.
+
+NEVER, EVER GO TO PALIES, IT SERVICE, COIMBATORE.
+
 </div>
+
+<br/>
 
 <Comparison />
 
