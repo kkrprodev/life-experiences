@@ -14,6 +14,7 @@ specifiers:
   prettier-plugin-svelte: ^2.8.1
   svelte: ^3.54.0
   svelte-check: ^2.9.2
+  svelte-loading-spinners: '*'
   typescript: ^4.9.3
   vite: ^4.0.0
   vitest: ^0.25.3
@@ -32,6 +33,7 @@ devDependencies:
   prettier-plugin-svelte: 2.9.0_ajxj753sv7dbwexjherrch25ta
   svelte: 3.55.0
   svelte-check: 2.10.2_svelte@3.55.0
+  svelte-loading-spinners: 0.3.4
   typescript: 4.9.4
   vite: 4.0.1
   vitest: 0.25.8
@@ -1757,6 +1759,10 @@ packages:
       svelte: '>=3.19.0'
     dependencies:
       svelte: 3.55.0
+    dev: true
+
+  /svelte-loading-spinners/0.3.4:
+    resolution: {integrity: sha512-vKaW71QMCBcTNijAGc0mUl8k3DQ66iYmp6MB8BMGCXyWk82bTrcLy8FOnSm9fE+8q6TwzD6PLUoYFHt0II93Xw==}
     dev: true
 
   /svelte-preprocess/4.10.7_niwyv7xychq2ag6arq5eqxbomm:
