@@ -6,7 +6,7 @@
 	import post_display_3 from '$lib/images/Post-display-3.jpg';
 	
 	import Title from './Title.svelte';
-	import Comparison from './Comparison.svelte';
+	import Pictures from './Pictures.svelte';
 </script>
 <Title />
 
@@ -98,7 +98,7 @@ NEVER, EVER GO TO PALIES, IT SERVICE, COIMBATORE.
 
 <br/>
 
-<Comparison />
+<Pictures />
 
 
 <style>
