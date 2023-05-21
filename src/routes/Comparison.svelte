@@ -7,15 +7,19 @@
 </script>
 
 <div id="grid-container">
-<img src={pre_display} width=800px />
-<img src={post_display_1} width=800px />
+	<img class="pre" src={pre_display} />
+	<img class="post" src={post_display_1} />
 </div>
 
 <style>
 
 #grid-container {
-    display: grid;
-    
+	display: grid;
+    grid-template-columns: auto auto;
+}
+
+img {
+	width: 100%;
 }
 
 
